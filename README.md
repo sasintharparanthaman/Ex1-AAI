@@ -1,5 +1,5 @@
-<H3> Name : Hashwatha M</H3>
-<H3>Register No : 212223240051</H3>
+<H3> Name : Sasinthar P</H3>
+<H3>Register No : 212223230199</H3>
 <H3> Experiment 1</H3>
 <H3>DATE: 22/11/2026</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
